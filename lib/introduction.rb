@@ -1,4 +1,6 @@
-
+#Define a Method That Takes in and Uses an Parameter
+introduction (name)
+  puts 
 
 
 
